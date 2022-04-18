@@ -2,15 +2,14 @@
 //  ContentView.swift
 //  mvvmTestApp
 //
-//  Created by Aaryaman Saini on 17/04/22.
+//  Created by Aaryaman Saini on 18/04/22.
 //
 
 import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello, world!")
-            .padding()
+            HomeView()
     }
 }
 
